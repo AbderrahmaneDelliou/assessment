@@ -209,20 +209,6 @@
       "type": "sunGlasses",
       "price": "50.40",
       "url": "https://images.unsplash.com/photo-1610136649349-0f646f318053?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-    {
-      "id": 31,
-      "title": "sun glass 7",
-      "type": "sunGlasses",
-      "price": "120",
-      "url": "https://images.unsplash.com/photo-1584036553516-bf83210aa16c?q=80&w=1960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-    {
-      "id": 32,
-      "title": "sun glass 8",
-      "type": "sunGlasses",
-      "price": "19",
-      "url": "https://images.unsplash.com/photo-1599705709640-9f9eb5964485?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
