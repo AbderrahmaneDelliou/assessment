@@ -202,13 +202,6 @@
       "type": "sunGlasses",
       "price": "39.43",
       "url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    },
-    {
-      "id": 30,
-      "title": "sun glass 6",
-      "type": "sunGlasses",
-      "price": "50.40",
-      "url": "https://images.unsplash.com/photo-1610136649349-0f646f318053?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
